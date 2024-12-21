@@ -1,2 +1,2 @@
-# gitDmeo
+# gitDemo
 Git demo file
